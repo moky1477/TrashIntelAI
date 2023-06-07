@@ -12,10 +12,11 @@ TrashIntel AI is a machine learning-based waste classification and reward system
 - User-friendly interface: The application has a simple and intuitive interface, making it easy for users to use and navigate.
 
 ## Implimentation
-![WhatsApp Image 2023-05-14 at 9 03 50 PM](https://github.com/moky1477/TrashIntelAI/assets/99066510/b91693ab-0819-4c2e-9675-cc0630ca9bff){width=250}
-![WhatsApp ![WhatsApp Image 2023-05-14 at 9 00 30 PM](https://github.com/moky1477/TrashIntelAI/assets/99066510/71b443cd-adb6-4682-a64b-0542f4ec373c){:height="100px" width="100px"}
-![WhatsApp Image 2023-05-14 at 9 00 28 PM](https://github.com/moky1477/TrashIntelAI/assets/99066510/cb7e1a36-5a0e-4605-9dac-6be8559ca0df){:height="100px" width="100px"}
-![WhatsApp Image 2023-05-14 at 9 00 30 PM](https://github.com/moky1477/TrashIntelAI/assets/99066510/08050fd9-03a3-440d-8f73-d9c28ff9fd91){:height="100px" width="100px"}
+![1](https://github.com/moky1477/TrashIntelAI/assets/99066510/131d570e-bb31-4fef-b7f3-88f10c44d9f1)
+![3](https://github.com/moky1477/TrashIntelAI/assets/99066510/f9c29377-3226-4985-b451-29d7d9949b42)
+![2](https://github.com/moky1477/TrashIntelAI/assets/99066510/f499257a-09bb-49a8-89e2-e20a4fff57b8)
+
+
 
 ## Technologies Used
 
