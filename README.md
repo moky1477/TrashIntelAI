@@ -11,6 +11,12 @@ TrashIntel AI is a machine learning-based waste classification and reward system
 - Location-based garbage collection: Users can send their location to the admin/garbage collector to request garbage collection. This helps ensure that garbage is collected promptly and efficiently.
 - User-friendly interface: The application has a simple and intuitive interface, making it easy for users to use and navigate.
 
+## Implimentation
+![WhatsApp Image 2023-05-14 at 9 03 50 PM](https://github.com/moky1477/TrashIntelAI/assets/99066510/b91693ab-0819-4c2e-9675-cc0630ca9bff)
+![WhatsApp ![WhatsApp Image 2023-05-14 at 9 00 30 PM](https://github.com/moky1477/TrashIntelAI/assets/99066510/71b443cd-adb6-4682-a64b-0542f4ec373c)
+![WhatsApp Image 2023-05-14 at 9 00 28 PM](https://github.com/moky1477/TrashIntelAI/assets/99066510/cb7e1a36-5a0e-4605-9dac-6be8559ca0df)
+![WhatsApp Image 2023-05-14 at 9 00 30 PM](https://github.com/moky1477/TrashIntelAI/assets/99066510/08050fd9-03a3-440d-8f73-d9c28ff9fd91)
+
 ## Technologies Used
 
 - Machine learning: The waste classification model is built using TensorFlow and trained on a dataset of images of dry and wet waste.
