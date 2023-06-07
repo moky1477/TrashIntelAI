@@ -21,7 +21,7 @@ TrashIntel AI is a machine learning-based waste classification and reward system
 
 To run the application locally, follow these steps:
 
-1. Clone the repository using `git clone https://github.com/MhaskeAditya42/TrashIntelAI.git`.
+1. Clone the repository
 2. Open the project in Android Studio.
 3. Set up a Firebase project and add the Firebase configuration files to the app (see Firebase documentation for details).
 4. Build and run the application on an Android device or emulator.
